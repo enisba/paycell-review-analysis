@@ -1,0 +1,26 @@
+version,date,notes
+9.3.1,2025-07-14,Performans iyileştirmeleri
+9.3.0,2025-06-25,Paycell Kart’a para yükleme deneyimi hızlandırıldı
+9.2.1,2025-06-12,Performans iyileştirmeleri
+9.2.0,2025-05-29,"Kayıt olma süreci yenilendi, harçlık isteme deneyimi iyileştirildi"
+9.1.0,2025-05-09,Kimlik doğrulama süreci hızlandırıldı
+9.0.0,2025-03-28,Performans iyileştirmeleri
+8.9.0,2025-03-20,"POS slip’leri dijitalleşti, Profil menüsü yenilendi, bakiye güncelleme kolaylaştı"
+8.8.1,2025-02-11,Performans iyileştirmeleri
+8.8.0,2025-02-07,Yurt dışı para transferi işlemleri hızlandırıldı
+8.7.1,2025-01-28,Hata düzeltmeleri ve performans iyileştirmeleri
+8.7.0,2025-01-15,"Fatura ödeme ekranları yenilendi, otomatik ödeme ve ödeme isteği özellikleri eklendi"
+8.6.0,2025-01-12,"Sigorta menüsü yenilendi, performans iyileştirmeleri"
+8.5.3,2024-11-28,"IBAN kamerayla okuma, ürün duyuruları, Arkadaşını Davet Et menüsü yenilendi"
+8.5.2,2024-11-26,"IBAN kamerayla okuma, ürün duyuruları, Arkadaşını Davet Et menüsü yenilendi"
+8.5.1,2024-11-20,"IBAN kamerayla okuma, ürün duyuruları, Arkadaşını Davet Et menüsü yenilendi"
+8.5.0,2024-11-15,"IBAN kamerayla okuma, ürün duyuruları, Arkadaşını Davet Et menüsü yenilendi"
+8.4.0,2024-10-15,Güvenlik sorusu ile şifre sıfırlama özelliği eklendi
+8.3.0,2024-10-04,QR işlemlerine uygulamaya giriş yapmadan erişim sağlandı
+8.2.0,2024-09-10,"Ana sayfa yenilendi, gelişmiş arama, oyun dünyası, FAST işlemleri"
+8.1.0,2024-08-21,"Apple Watch desteği, Bize Ulaşın menüsü iyileştirildi"
+8.0.0,2024-06-28,"Troy Paycell kart, kampanya ve fatura ödeme özellikleri eklendi"
+7.9.1,2024-06-06,Troy Paycell kart özellikleri ve performans iyileştirmeleri
+7.9.0,2024-05-29,Troy Paycell kart özellikleri ve performans iyileştirmeleri
+7.8.1,2024-05-14,Performans iyileştirmeleri
+7.8.0,2024-04-30,Troy Paycell kart ve ödeme deneyimi iyileştirildi
