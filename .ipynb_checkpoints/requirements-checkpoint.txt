@@ -1,0 +1,14 @@
+google-play-scraper
+pandas
+beautifulsoup4
+jpype1
+nltk
+scikit-learn
+transformers
+openpyxl
+keybert
+matplotlib
+seaborn
+numpy
+wordcloud
+gensim
