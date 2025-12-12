@@ -41,7 +41,7 @@ This project presents a complete pipeline for analyzing user feedback of the **P
 - Identify clusters of dissatisfaction using semantic grouping.
 - Demonstrate how real-world user feedback can be used to guide product development decisions in fintech apps.
 
-## ⚠ Notes
+## Notes
 
 - Some reviews are sarcastic, short, or ambiguous, this may reduce model accuracy.
 - App versions with fewer comments may introduce fluctuations in the time series graphs.
